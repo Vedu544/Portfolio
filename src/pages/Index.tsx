@@ -20,10 +20,15 @@ const Index = () => {
           <Badge className="mb-4" variant="secondary">
             Available for opportunities
           </Badge>
-          <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-foreground">
-            Vedant Kulkarni
-          </h1>
-          <p className="text-xl text-muted-foreground max-w-[600px] mx-auto">
+          <div className="flex flex-col items-center gap-2">
+            <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-foreground typewriter w-fit mx-auto">
+              Vedant Kulkarni
+            </h1>
+            <p className="text-xl font-medium tracking-wide text-primary typewriter-delay w-fit mx-auto font-space-grotesk">
+              Full Stack Developer
+            </p>
+          </div>
+          <p className="text-xl text-muted-foreground max-w-[600px] mx-auto mt-6">
             Backend Developer & Research Specialist with expertise in Node.js and MongoDB
           </p>
           <div className="flex gap-4 justify-center mt-8">
