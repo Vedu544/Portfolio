@@ -29,7 +29,7 @@ const Index = () => {
             <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-foreground w-fit mx-auto">
               Vedant Kulkarni
             </h1>
-            <p className="text-xl font-medium tracking-wide text-primary w-fit mx-auto font-space-grotesk text-black">
+            <p className="text-xl font-medium tracking-wide text-primary w-fit mx-auto font-space-grotesk bg-black text-white p-2">
               Full Stack Developer
             </p>
           </div>
@@ -466,7 +466,7 @@ const Index = () => {
       <section className="container px-4 py-20">
         <div className="fade-in text-center max-w-xl mx-auto">
           <h2 className="text-3xl font-bold mb-4">Let's Connect</h2>
-          <p className="text-muted-foreground mb-8 text-black">
+          <p className="text-muted-foreground mb-8 bg-black text-white p-2  ">
             I'm always interested in hearing about new opportunities and
             collaborations.
           </p>
