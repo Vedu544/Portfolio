@@ -33,7 +33,7 @@ const Index = () => {
               Full Stack Developer
             </p>
           </div>
-          <p className="text-xl text-muted-foreground max-w-[600px] mx-auto mt-6 text-black">
+          <p className="text-xl text-muted-foreground max-w-[600px] mx-auto mt-6 text-white">
             Full Stack Developer with expertise in Node.js and MongoDB
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mt-8">
